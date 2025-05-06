@@ -1,0 +1,28 @@
+.forms{
+    height: 400px;
+    width: 400px;
+    background-color: #d4acfa;
+    padding: 20px;
+    margin: auto;
+    margin-top: 50px;
+    border-radius: 10px;
+}
+.forms input{
+    width: 90%;
+    outline: none;
+    padding: 10px;
+    border-radius: 20px;
+    border: none;
+    margin-bottom: 20px;
+}
+
+.sub-btn{
+    width: 20%;
+    padding: 10px;
+    border-radius: 10px;
+    border: none;
+    background-color: #fff;
+    color: blueviolet;
+    font-weight: bold;
+    cursor: pointer;
+}
